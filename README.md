@@ -1,5 +1,18 @@
 # vue_research
 
+## Vue pre-request install
+```
+npm install -g @vue/cli
+```
+## Vue version update
+```
+npm update -g @vue/cli
+```
+## Create new Vue project
+```
+vue create <Name>
+```
+
 ## Project setup
 ```
 npm install
